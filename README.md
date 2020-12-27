@@ -6,3 +6,7 @@ After downloading the package, copy to your development enviroment for usage.
 usage:
 
 import neuralflow as nf
+
+ann = nf.ANN
+ann.neural_network(feature_sets, weight_x, weight_y, bias_x, bias_y, bias_value, label_shape_x, label_shape_y, lr, i, label, seed)
+ann.predict()
