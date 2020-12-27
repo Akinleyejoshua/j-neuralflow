@@ -1,2 +1,2 @@
 # j-neuralflow
-An Artificial Neural Network Library 
+An Artificial Neural Network Library, still under development
