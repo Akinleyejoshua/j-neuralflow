@@ -9,4 +9,4 @@ import neuralflow as nf
 
 ann = nf.ANN
 ann.neural_network(feature_sets, weight_x, weight_y, bias_x, bias_y, bias_value, label_shape_x, label_shape_y, lr, i, label, seed)
-ann.predict()
+ann.predict(value)
